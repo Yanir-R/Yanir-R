@@ -16,7 +16,7 @@
 
      💬 Ask me about Anything.
 
-<h1 align="center">Skills</h1>
+<h1 align="center">Skills :mortar_board:</h1>
 
 <p align="center"> <img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/>
       <img 
