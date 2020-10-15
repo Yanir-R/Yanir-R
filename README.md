@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Angular & React
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Anything.
-- 📫 How to reach me: [My Email](rotyanir@gmail.com), [My linkedin](https://www.linkedin.com/in/yanir-rot-1454621b0/)
+- 📫 How to reach me: [Email](rotyanir@gmail.com), [Linkedin](https://www.linkedin.com/in/yanir-rot-1454621b0/)
 - 😄 Pronouns: He\Him
 - ⚡ Fun fact: ...
 -->
