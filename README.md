@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi :construction_worker: I'm Yanir</h1>
+<h1 align="center">Hi 👋 I'm Yanir</h1>
 <p align="center">
 <a href=https://www.linkedin.com/in/yanir-rot-1454621b0 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="rahuldkjain" height="20" width="20" /></a>
 </p>    
 
-### Here is What I'm Working On! 👋
+### Here is What I'm Working On! :construction_worker: 
 
 - 🔭 I’m currently working on  User Management System
 - 🌱 I’m currently learning React in depth 
