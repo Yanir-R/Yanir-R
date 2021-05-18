@@ -1,8 +1,10 @@
 
 <h1 align="center">
-     Hi, I'm Yanir <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h1>
-<p align="center">     
-<a href=https://www.linkedin.com/in/yanir-rot-1454621b0 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="rahuldkjain" height="20" width="20" /></a>
+     Hi, I'm Yanir <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="25px"></h1>
+          <h3 align="center">Full-Stack Developer | JS Developer</h3>
+<p align="center">  
+<a href=https://www.linkedin.com/in/yanirrot target="blank"><img align="center" src="https://user-images.githubusercontent.com/74010095/118392719-a1e2ee00-b643-11eb-8f57-aed31feded47.png" alt="yanir-rot" height="40" width="40" /></a
+     <a href="mailto:rotyanir@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74010095/118392791-07cf7580-b644-11eb-8d2a-f8b42b7c1656.png" alt="yanir-rot" height="42" width="42" /></a>
 </p>    
 
 ### :construction_worker: Here is What I'm Working On! 
