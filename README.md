@@ -28,9 +28,9 @@ src=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/expr
      
 </p>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yanir-R&show_icons=true&theme=material-palenight&layout=compact&line_height=20" width="450px" height="200px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yanir-R&show_icons=true&theme=material-palenight&layout=compact&line_height=20" width="50%" height="40%"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanir-R&theme=material-palenight&layout=compact"  width="450px" height="200px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanir-R&theme=material-palenight&layout=compact"  width="40%" height="50%"/>
 </a>
 
