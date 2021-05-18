@@ -27,3 +27,10 @@ src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodej
 src=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg alt=express width="40" height="40"/>
      
 </p>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yanir-R&show_icons=true&theme=material-palenight&layout=compact&line_height=20" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanir-R&theme=material-palenight&layout=compact" />
+</a>
+
