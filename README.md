@@ -8,8 +8,9 @@
 <a href="mailto:rotyanir@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74010095/118392791-07cf7580-b644-11eb-8d2a-f8b42b7c1656.png" alt="yanir-rot" height="42" width="42" /></a>
 </p>    
 
-### <img src="https://img.icons8.com/nolan/64/programming-flag.png"/>
-:construction_worker: Here is What I'm Working On!  
+<img src="https://img.icons8.com/nolan/64/google-code.png"/>
+
+### :construction_worker: Here is What I'm Working On!  
 
 - 🔭 I’m currently working on  React App
 - 🌱 I’m currently learning React in depth 
@@ -17,6 +18,7 @@
 - 😄 Pronouns: He\Him
 - ⚡⚡ Open for job offers ⚡⚡
 
+<img src="https://img.icons8.com/nolan/64/programming-flag.png"/>
 <h1 align="center">
      Skills :mortar_board:</h1>
 
