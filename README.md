@@ -32,6 +32,8 @@
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"/>
 <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript"/>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap"/>
+     
      
 </p>
 <a href="https://github.com/anuraghazra/convoychat" >
