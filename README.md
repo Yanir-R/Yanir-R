@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on  React App
 - 🌱 I’m currently learning React in depth 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yanir-rot-1454621b0/), [Twitter](https://twitter.com/Yanir23324771)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yanir-rot-1454621b0/)
 - 😄 Pronouns: He\Him
 - ⚡⚡ Open for job offers ⚡⚡
 
