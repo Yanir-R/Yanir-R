@@ -12,8 +12,7 @@
 
 ### :construction_worker: Here is What I'm Working On!  
 
-- 🔭 I’m currently working on  React App
-- 🌱 I’m currently learning React in depth 
+- 🌱 I’m currently learning state management react in depth 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yanir-rot-1454621b0/)
 - 😄 Pronouns: He\Him
 - ⚡⚡ Open for job offers ⚡⚡
