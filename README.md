@@ -10,8 +10,6 @@
 
 <img src="https://img.icons8.com/nolan/64/google-code.png"/>
 
-### :construction_worker: Here is What I'm Working On!  
-
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yanir-rot-1454621b0/)
 
 <img src="https://img.icons8.com/nolan/64/programming-flag.png"/>
