@@ -18,7 +18,6 @@
 
 <p align="center">  
 <img src="https://img.icons8.com/nolan/64/react-native.png" alt="reactjs"/>
-<img src="https://img.icons8.com/nolan/64/angularjs.png" alt="angular"/>
 <img src="https://img.icons8.com/nolan/64/html-5.png"  alt="html"/>   
 <img src="https://img.icons8.com/nolan/64/js.png" alt="javascript"/>
 <img src="https://img.icons8.com/nolan/64/css-filetype.png" alt="css"/>
