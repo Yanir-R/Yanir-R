@@ -1,9 +1,9 @@
 # Yanir Rot
 
-**Full-Stack AI Engineer** · Founding Engineer at Dalton · Israel
+**Full-Stack AI Engineer**
 
-Production LLM and multi-agent systems. At Dalton I went from building the chat frontend to
-owning correctness of the agent pipeline end to end — evidence provenance, hallucination
+Production LLM and multi-agent systems. I went from building the frontend to
+owning correctness of agent pipeline end to end — evidence provenance, hallucination
 prevention, token economics — a range that runs from a React component to a Helm chart.
 
 [Live AI assistant](https://yanir-portfolio.pages.dev) ·
@@ -42,5 +42,3 @@ prevention, token economics — a range that runs from a React component to a He
 Coding agents from a single terminal — Claude and Codex, 7–8B tokens/month.
 
 ---
-
-*Practical Software Engineer, Technion Tel Aviv · English fluent, Hebrew native*
