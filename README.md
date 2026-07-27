@@ -15,7 +15,7 @@ owning it end to end, from a React component to a Helm chart.
 
 Most of it lives in private repos. Happy to walk through any of it.
 
-**[gemini-portfolio](https://github.com/Yanir-R/gemini-portfolio)** — an assistant that answers
+**[gemini-portfolio](https://github.com/Yanir-R/gemini-portfolio)** - an assistant that answers
 from my own documents and won't invent the rest. Hardened against prompt injection → **[live](https://yanir-portfolio.pages.dev)**
 
 **Hermes** - a self-hosted agent I keep on Telegram, with an Obsidian vault for memory.
@@ -30,11 +30,11 @@ client-side through WebCodecs, which is what removes the render farm.
 
 ### Stack
 
-**Python · TypeScript · Go** — on Kubernetes, against Gemini and Claude.
+**Python · TypeScript · Go** - on Kubernetes, against Gemini and Claude.
 The rest is on the CV.
 
 ---
 
 ### How I work
 
-Coding agents from a single terminal — Claude and Codex, 7–8B tokens/month.
+Coding agents from a single terminal - Claude and Codex, 7–8B tokens/month.
