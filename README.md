@@ -1,38 +1,46 @@
+# Yanir Rot
 
-<h1 align="center">
-     Hi, I'm Yanir <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="25px">
-</h1>
-<h3 align="center">Frontend Developer | JS Developer</h3>
-<p align="center">  
-<a href=https://www.linkedin.com/in/yanirrot target="blank"><img align="center" src="https://user-images.githubusercontent.com/74010095/118392719-a1e2ee00-b643-11eb-8f57-aed31feded47.png" alt="yanir-rot" height="40" width="40" /></a>
-<a href="mailto:rotyanir@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74010095/118392791-07cf7580-b644-11eb-8d2a-f8b42b7c1656.png" alt="yanir-rot" height="42" width="42" /></a>
-</p>    
+**Full-Stack AI Engineer** · Founding Engineer at Dalton · Israel
 
-<img src="https://img.icons8.com/nolan/64/google-code.png"/>
+Production LLM and multi-agent systems. At Dalton I went from building the chat frontend to
+owning correctness of the agent pipeline end to end — evidence provenance, hallucination
+prevention, token economics — a range that runs from a React component to a Helm chart.
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yanir-rot-1454621b0/)
+[Live AI assistant](https://yanir-portfolio.pages.dev) ·
+[LinkedIn](https://www.linkedin.com/in/yanirrot) ·
+[Medium](https://medium.com/@Yanir_Rot) ·
+[rotyanir@gmail.com](mailto:rotyanir@gmail.com)
 
-<img src="https://img.icons8.com/nolan/64/programming-flag.png"/>
-<h1 align="center">
-     Skills :mortar_board:</h1>
+---
 
-<p align="center">  
-<img src="https://img.icons8.com/nolan/64/react-native.png" alt="reactjs"/>
-<img src="https://img.icons8.com/nolan/64/html-5.png"  alt="html"/>   
-<img src="https://img.icons8.com/nolan/64/js.png" alt="javascript"/>
-<img src="https://img.icons8.com/nolan/64/css-filetype.png" alt="css"/>
- <br>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"/>
-<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript"/>
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap"/>
-     
-     
-</p>
-<a href="https://github.com/anuraghazra/convoychat" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yanir-R&show_icons=true&theme=material-palenight&layout=compact&line_height=20" width="50%"  />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanir-R&theme=material-palenight&layout=compact" width="40%"  />
-</a>
+### What I work on
 
+**Hermes** *(private)* — Self-hosted 24/7 agent: custom persona, Obsidian-vault memory, Telegram interface, scheduled signal capture and weekly review.
+
+**Book to Trailer** *(private)* — Turns a book's text into a video trailer with an in-browser editor; client-side export via WebCodecs.
+
+**Video analysis service** *(private)* — Token-based access control and inference-cost optimization.
+
+**[gemini-portfolio](https://github.com/Yanir-R/gemini-portfolio)** ([live](https://yanir-portfolio.pages.dev)) — Doc-aware AI assistant on Gemini, hardened against prompt injection.
+
+---
+
+### Stack
+
+| | |
+| --- | --- |
+| **AI & LLM** | Multi-agent orchestration · RAG & embeddings · prompt engineering · Qdrant · Langfuse · Claude · Gemini / Vertex AI |
+| **Languages** | Python · TypeScript · Go · JavaScript |
+| **Frontend** | React · Next.js · TailwindCSS · React Native |
+| **Backend & data** | Node.js · Kafka · Redis · MongoDB · Memgraph / Cypher |
+| **Infra & cloud** | Kubernetes · Helm · ArgoCD · GCP · AWS |
+
+---
+
+### Workflow
+
+Coding agents from a single terminal — Claude and Codex, 7–8B tokens/month.
+
+---
+
+*Practical Software Engineer, Technion Tel Aviv · English fluent, Hebrew native*
