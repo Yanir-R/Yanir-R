@@ -18,13 +18,13 @@ Most of it lives in private repos. Happy to walk through any of it.
 **[gemini-portfolio](https://github.com/Yanir-R/gemini-portfolio)** — an assistant that answers
 from my own documents and won't invent the rest. Hardened against prompt injection → **[live](https://yanir-portfolio.pages.dev)**
 
-**Hermes** — a self-hosted agent I keep on Telegram, with an Obsidian vault for memory.
+**Hermes** - a self-hosted agent I keep on Telegram, with an Obsidian vault for memory.
 Capture on every turn, consolidate overnight, retrieve only what matches the question.
 
-**Book to Trailer** — book text in, video trailer out, editable in the browser. Export runs
+**Book to Trailer** - book text in, video trailer out, editable in the browser. Export runs
 client-side through WebCodecs, which is what removes the render farm.
 
-**Video analysis service** — token-based access control and inference-cost optimization.
+**Video analysis service** - token-based access control and inference-cost optimization.
 
 ---
 
