@@ -2,7 +2,7 @@
 
 **Full-Stack AI Engineer.** I work on the half of an LLM system where sounding right isn't good enough.
 
-Evidence provenance, hallucination prevention, token economics — and the range that comes with
+Evidence provenance, hallucination prevention, token economics -- and the range that comes with
 owning it end to end, from a React component to a Helm chart.
 
 [LinkedIn](https://www.linkedin.com/in/yanirrot) ·
@@ -16,8 +16,7 @@ owning it end to end, from a React component to a Helm chart.
 Most of it lives in private repos. Happy to walk through any of it.
 
 **[gemini-portfolio](https://github.com/Yanir-R/gemini-portfolio)** — an assistant that answers
-from my own documents and won't invent the rest. Hardened against prompt injection, deployed
-with no service-account key in existence anywhere. → **[live](https://yanir-portfolio.pages.dev)**
+from my own documents and won't invent the rest. Hardened against prompt injection → **[live](https://yanir-portfolio.pages.dev)**
 
 **Hermes** — a self-hosted agent I keep on Telegram, with an Obsidian vault for memory.
 Capture on every turn, consolidate overnight, retrieve only what matches the question.
