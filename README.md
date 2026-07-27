@@ -1,10 +1,9 @@
 # Yanir Rot
 
-**Full-Stack AI Engineer**
+**Full-Stack AI Engineer.** I work on the half of an LLM system where sounding right isn't good enough.
 
-Production LLM and multi-agent systems. I went from building the frontend to
-owning correctness of agent pipeline end to end — evidence provenance, hallucination
-prevention, token economics — a range that runs from a React component to a Helm chart.
+Evidence provenance, hallucination prevention, token economics — and the range that comes with
+owning it end to end, from a React component to a Helm chart.
 
 [LinkedIn](https://www.linkedin.com/in/yanirrot) ·
 [Medium](https://medium.com/@Yanir_Rot) ·
@@ -12,32 +11,31 @@ prevention, token economics — a range that runs from a React component to a He
 
 ---
 
-### What I work on
+### Currently building
 
-**Hermes** *(private)* — Self-hosted 24/7 agent: custom persona, Obsidian-vault memory, Telegram interface, scheduled signal capture and weekly review.
+Most of it lives in private repos. Happy to walk through any of it.
 
-**Book to Trailer** *(private)* — Turns a book's text into a video trailer with an in-browser editor; client-side export via WebCodecs.
+**[gemini-portfolio](https://github.com/Yanir-R/gemini-portfolio)** — an assistant that answers
+from my own documents and won't invent the rest. Hardened against prompt injection, deployed
+with no service-account key in existence anywhere. → **[live](https://yanir-portfolio.pages.dev)**
 
-**Video analysis service** *(private)* — Token-based access control and inference-cost optimization.
+**Hermes** — a self-hosted agent I keep on Telegram, with an Obsidian vault for memory.
+Capture on every turn, consolidate overnight, retrieve only what matches the question.
 
-**[gemini-portfolio](https://github.com/Yanir-R/gemini-portfolio)** ([live](https://yanir-portfolio.pages.dev)) — Doc-aware AI assistant on Gemini, hardened against prompt injection.
+**Book to Trailer** — book text in, video trailer out, editable in the browser. Export runs
+client-side through WebCodecs, which is what removes the render farm.
+
+**Video analysis service** — token-based access control and inference-cost optimization.
 
 ---
 
 ### Stack
 
-| | |
-| --- | --- |
-| **AI & LLM** | Multi-agent orchestration · RAG & embeddings · prompt engineering · Qdrant · Langfuse · Claude · Gemini / Vertex AI |
-| **Languages** | Python · TypeScript · Go · JavaScript |
-| **Frontend** | React · Next.js · TailwindCSS · React Native |
-| **Backend & data** | Node.js · Kafka · Redis · MongoDB · Memgraph / Cypher |
-| **Infra & cloud** | Kubernetes · Helm · ArgoCD · GCP · AWS |
+**Python · TypeScript · Go** — on Kubernetes, against Gemini and Claude.
+The rest is on the CV.
 
 ---
 
-### Workflow
+### How I work
 
 Coding agents from a single terminal — Claude and Codex, 7–8B tokens/month.
-
----
