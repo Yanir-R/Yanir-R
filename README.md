@@ -6,7 +6,6 @@ Production LLM and multi-agent systems. I went from building the frontend to
 owning correctness of agent pipeline end to end — evidence provenance, hallucination
 prevention, token economics — a range that runs from a React component to a Helm chart.
 
-[Live AI assistant](https://yanir-portfolio.pages.dev) ·
 [LinkedIn](https://www.linkedin.com/in/yanirrot) ·
 [Medium](https://medium.com/@Yanir_Rot) ·
 [rotyanir@gmail.com](mailto:rotyanir@gmail.com)
