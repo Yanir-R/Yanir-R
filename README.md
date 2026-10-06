@@ -20,4 +20,4 @@ owning it end to end, from a React component to a Helm chart.
 
 ### How I work
 
-Coding agents from a single terminal - [herdr]([https://personakit.me](https://herdr.dev/)) - Claude and Codex, 25–28B tokens/month.
+Coding agents from a single terminal - [herdr](https://herdr.dev/) - Claude and Codex, 25–28B tokens/month.
