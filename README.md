@@ -5,7 +5,8 @@
 Evidence provenance, hallucination prevention, token economics -- and the range that comes with
 owning it end to end, from a React component to a Helm chart.
 
-[LinkedIn](https://www.linkedin.com/in/yanirrot) ·
+[LinkedIn](https://www.linkedin.com/in/yanirrot)
+[Portfolio](https://yanirrot.com/)
 [Medium](https://medium.com/@Yanir_Rot) ·
 [rotyanir@gmail.com](mailto:rotyanir@gmail.com)
 
