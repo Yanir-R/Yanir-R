@@ -27,18 +27,3 @@ I take on freelance AI engineering through Trinity - agents, LLM reliability, co
 ### How I work
 
 Coding agents from a single terminal - [herdr](https://herdr.dev/) - mainly Claude and Codex.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
