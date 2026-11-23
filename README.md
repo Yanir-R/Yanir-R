@@ -14,7 +14,7 @@ owning it end to end, from a React component to a Helm chart.
 - **[PersonaKit](https://github.com/Yanir-R/personaKit)** - local-first memory layer for AI assistants you can inspect, correct and carry between them. [personakit.me](https://personakit.me)
 - **[catchup](https://github.com/Yanir-R/catchup)** - a Claude Code mod that summarizes the agent messages you haven't read, in plain English.
 
-Also public: [gemini-portfolio](https://github.com/Yanir-R/gemini-portfolio), a doc-aware AI assistant on Gemini, hardened against prompt injection.
+Also public: [ai-portfolio-kit](https://github.com/Yanir-R/gemini-portfolio), a doc-aware AI assistant on Gemini, hardened against prompt injection.
 
 ---
 
